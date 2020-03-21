@@ -21,7 +21,7 @@ function sayHiToGrandma(string) {
   if (string === "HELLO") {
     return "YES INDEED!"
   }
-  if ( === ){
+  if ("I love you, Grandma." === ){
     return "I love you, too."
   }
 };
