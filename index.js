@@ -23,5 +23,5 @@ function sayHiToGrandma(string) {
   }
   if(){
     return "I love you, too."
-  }    
+  }
 };
