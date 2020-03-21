@@ -15,13 +15,13 @@ function logWhisper(string) {
 }
 
 function sayHiToGrandma(string) {
-  if(string === "hello") {
+  if (string === "hello") {
     return "I can't hear you!"
   }
-  if(string === .toUpperCase) {
+  if (string === "HELLO") {
     return "YES INDEED!"
   }
-  if(){
+  if (){
     return "I love you, too."
   }
 };
